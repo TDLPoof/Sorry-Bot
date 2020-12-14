@@ -6,6 +6,8 @@ Files and purposes:
 
   deck.py: create Deck class to handle pulling random cards from deck, should have init and drawCard
   
+  board.py: create Board class, should keep track of whose turn it is, squares
+  
   player.py: create a Player class, each player should have init and makeMove
   
   human.py: Implements Human class which inherits from Player
