@@ -11,6 +11,9 @@ class Player(object):
     
     def whoToApplyCardTo(self, card):
         return 1
+    
+    def movePawn(self, pawnNum, newLocation):
+        self.pawns[pawnNum] = newLocation
 
     def printPlayerInfo(self):
         print(self.pawns)
