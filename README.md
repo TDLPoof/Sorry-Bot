@@ -17,3 +17,6 @@ Files and purposes:
 Misc:
 
 Sorry! is represented internally with key 0
+
+Off spaces "Start" and "End1", "End2", "End3", "End4", "End5"
+0 is red start, squares are mod 60
